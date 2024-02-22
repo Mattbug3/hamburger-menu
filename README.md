@@ -2,6 +2,7 @@ In the world of web development, interactivity is key to engaging users and enha
 
 ## The Ingredients: HTML Structure
 Our journey begins with the foundational structure of our hamburger menu. We start by setting up a basic HTML document and defining the essential components:
+[Live link](https://mattbug3.github.io/hamburger-menu/)
 
 ```html
 <!DOCTYPE html>
